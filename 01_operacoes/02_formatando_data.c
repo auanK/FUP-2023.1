@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int hora, minuto, dia, mes, ano, teste;
+    int hora, minuto, dia, mes, ano;
 
     scanf("%d %d %d %d %d", &hora, &minuto, &dia, &mes, &ano);
 
