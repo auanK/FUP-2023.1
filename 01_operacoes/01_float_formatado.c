@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a, b;
+    int a, b, teste;
     float divi;
 
     scanf("%d", &a);
