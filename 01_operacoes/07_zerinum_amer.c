@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int jog1, jog2, jog3, jog4, soma, res;
     scanf("%d%d%d%d", &jog1, &jog2, &jog3, &jog4);

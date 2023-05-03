@@ -12,5 +12,5 @@ int main() {
         printf("1\n");
     }else {
         printf("0\n");
-    } teste if*/
+    } f*/
 }

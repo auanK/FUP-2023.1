@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     int M, A, B, C;
 

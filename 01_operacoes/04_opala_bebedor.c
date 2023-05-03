@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     float velocidade, tempo, consumo, distancia, desempenho;
     scanf("%f\n", &velocidade);

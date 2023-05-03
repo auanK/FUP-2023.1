@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main() {
-    float xa, ya, s xb, yb, dab;
+    float xa, ya, xb, yb, dab;
 
     scanf("%f%f%f%f", &xa, &ya, &xb, &yb);
 
