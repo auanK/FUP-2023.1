@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int capac, ban, goi, man, via;
+    int capac, ban, gois, man, via;
 
     scanf("%d%d%d%d", &capac, &ban, &goi, &man);
 
